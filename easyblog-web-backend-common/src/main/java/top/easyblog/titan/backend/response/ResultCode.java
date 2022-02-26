@@ -18,6 +18,7 @@ public enum ResultCode {
     NOT_FOUND,
     INTERNAL_ERROR,
     DATA_ACCESS_FAIL,
+    PARAMETER_VALIDATE_FAILED,
 
     SIGN_FAIL,
     SIGN_ERROR,

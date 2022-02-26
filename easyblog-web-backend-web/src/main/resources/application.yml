@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: app_name
+    name: easyblog-web-backend
 logging:
   config: classpath:logback-spring.xml
 ---
