@@ -7,8 +7,8 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-${rootArtifactId}-common/target
-${rootArtifactId}-core/target
-${rootArtifactId}-web/target
+easyblog-web-backend-common/target
+easyblog-web-backend-core/target
+easyblog-web-backend-web/target
 .idea/
 log/
